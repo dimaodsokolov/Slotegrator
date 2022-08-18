@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CucumberFeatureTest" parallel="false" thread-count="1">
+    <test name="ChromeTest">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="ui.cucumber.RunCucumberTest"/>
+            <class name="api.BaseTest"/>
+        </classes>
+    </test>
+</suite>
