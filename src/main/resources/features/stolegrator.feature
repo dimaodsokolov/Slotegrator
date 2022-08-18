@@ -1,3 +1,4 @@
+@UiTests
 Feature:Login into system
 
   Scenario: Login to the admin panel
