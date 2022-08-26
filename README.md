@@ -1,4 +1,4 @@
-# Stolegrator
+# Slotegrator
 cucumber + api calls. testng
 
 cucumber test with tag "@UiTests"/
